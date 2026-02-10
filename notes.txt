@@ -1,0 +1,11 @@
+Local PDFs
+   ↓
+Local Chunking
+   ↓
+Local Embeddings (FAISS)
+   ↓
+Retrieved Evidence
+   ↓
+Gemini LLM (via API)
+   ↓
+Final Answer
